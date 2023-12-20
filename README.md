@@ -7,7 +7,7 @@
 
 
 ## 완성작 보기
-미리보기 : https://panorama-company.netlify.app/
+미리보기 : https://panorama-3dcompany.netlify.app/
 
 
 
